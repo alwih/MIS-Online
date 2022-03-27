@@ -1,0 +1,16 @@
+﻿{
+  "Id": "XulBS1cvOUy-GZISBwyEBw",
+  "Reference": "_G1fG-i5WE2OhcMQ8Je3rA/XulBS1cvOUy-GZISBwyEBw",
+  "ParentRef": "_G1fG-i5WE2OhcMQ8Je3rA/3nyZGj34d0i8f-f1zI-ZRw",
+  "Name": "New Ticket",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-03-08T09:22:52.1700847Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-08T09:23:12.8936266Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

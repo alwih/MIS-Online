@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.27/Ticketing/TicketList.aspx?(Not.Licensed.For.Production)=" ContentHash="idHPPdzWgUeaAKP2V7CVdw" DesignTimeRectangle="1163, 118, 185, 17" ElementType="Text" FriendlyName="'mis.manager@bankmandiri…'" FullSelectorArgument="&lt;webctrl aaname='mis.manager@bankmandiri.co.id' parentid='wt13_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt6_Ticketing_U*' tag='SPAN' innertext='mis.manager@bankmandiri.co.id' /&gt;" FuzzyAccuracy="0.93" FuzzySelectorArgument="&lt;webctrl aaname='mis.manager@bankmandiri.co.id' parentid='wt13_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt6_Ticketing_U*' tag='SPAN' innertext='mis.manager@bankmandiri.co.id' type='' check:text='mis.manager@bankmandiri.co.id' /&gt;" Reference="_G1fG-i5WE2OhcMQ8Je3rA/Mt0aPa1mP0i1kIPH4mLphw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Ticket List' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1163, 94, 185, 21" ElementType="Text" FriendlyName="'Mis Manager Tes...'" FullSelectorArgument="&lt;webctrl aaname='Mis Manager Tes...' parentid='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Mis Manager Tes...' parentid='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='SPAN' type='' check:text='Mis Manager Tes...' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1zxjCDqorrkSpsa57dPqu0w</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0DXqsuVtF0kKYlijdKfxQXQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="fea07f8c4372d8886a0ecac74712e1c1.png" xmlns="">0SAfkdIA5_UqEpRhlOUnotA</imageRef>
+</TargetAnchorable>

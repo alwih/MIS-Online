@@ -1,0 +1,15 @@
+﻿{
+  "Id": "KNA-ie8J40Kr7Mmr_LYEdw",
+  "Reference": "_G1fG-i5WE2OhcMQ8Je3rA/KNA-ie8J40Kr7Mmr_LYEdw",
+  "ParentRef": "_G1fG-i5WE2OhcMQ8Je3rA/n6_kb_bEJE23avyZ_Z1o1Q",
+  "Name": "Ticket List",
+  "Type": "Screen",
+  "Created": "2022-03-08T09:35:57.0571243Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-08T09:36:23.5755745Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

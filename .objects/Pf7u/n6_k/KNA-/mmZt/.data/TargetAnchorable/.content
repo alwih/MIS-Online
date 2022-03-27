@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/Ticketing/OpenNewTicket.aspx" ContentHash="HzLEeq1n7kyG4ueGYXimOA" DesignTimeRectangle="1236, 408, 143, 40" ElementType="Text" FriendlyName="'View'" FullSelectorArgument="&lt;webctrl aaname='View' id='wt2_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='View' id='wt2_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' tag='A' type='' check:text='View' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Ticket List' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0gsTeOlfjCkuTr0Ls3HaX2A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9c608121fafc7294bcfcdb4473a593a4.png" xmlns="">0ibolA1ob1USPRClZi9ImIQ</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "IItwsUG6cUWR4FNRfBdJGw",
+  "Reference": "_G1fG-i5WE2OhcMQ8Je3rA/IItwsUG6cUWR4FNRfBdJGw",
+  "ParentRef": "_G1fG-i5WE2OhcMQ8Je3rA/dLcUgS3-2Ua2myq4eYkQ0g",
+  "Name": "Star Survey Luar: 1",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-03-16T03:33:07.8438445Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-16T03:33:25.8640381Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.26/Ticketing/TicketList.aspx?(Not.Licensed.For.Production)=" ContentHash="Hrg_R23z4kqjuuI9jDLw8Q" DesignTimeRectangle="1173, 118, 173, 17" ElementType="Text" FriendlyName="'mis.agent2@bankmandiri.…'" FullSelectorArgument="&lt;webctrl aaname='mis.agent2@bankmandiri.co.id' parentid='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='SPAN' /&gt;" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl aaname='mis.agent2@bankmandiri.co.id' parentid='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='SPAN' type='' check:fulltext='mis.agent2@bankmandiri.co.id' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Ticket List' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1173, 94, 173, 21" ElementType="Text" FriendlyName="'Mis Agent2 Test'" FullSelectorArgument="&lt;webctrl aaname='Mis Agent2 Test' parentid='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Mis Agent2 Test' parentid='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='SPAN' type='' check:text='Mis Agent2 Test' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">148fEtKLmx0KTY5d4IsEd5Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0xp9yvzbyO0-mM78eFDpEjQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6d350eb378cadcb7f9de9d45f0e2fafb.png" xmlns="">0q5guUstozUiPLDw2sGSjAQ</imageRef>
+</TargetAnchorable>

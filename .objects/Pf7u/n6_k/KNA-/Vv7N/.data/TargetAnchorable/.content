@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.26/Ticketing/TicketList.aspx" ContentHash="UfCOhY9Q3ECCgp-ocNTK0A" DesignTimeRectangle="831, 683, 472, 24" ElementType="Text" FriendlyName="'Complexity'" FullSelectorArgument="&lt;webctrl aaname='Complexity' id='wt22_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketin*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Complexity' id='wt22_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketin*' tag='LABEL' type='' check:text='Complexity' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Ticket Detail' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="831, 707, 472, 40" ElementType="DropDown" FriendlyName="'--Select Complexity--'" FullSelectorArgument="&lt;webctrl aaname='Complexity' tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Complexity' tag='SELECT' type='' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1jplBmUnO6k-VhitoUSBCKA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0DeeJrhW7ZkmDghFEg2AO9g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="42c99106b499fca08176bfc4531735d6.png" xmlns="">0EeyBDbgqTEeNczm5-PzQng</imageRef>
+</TargetAnchorable>

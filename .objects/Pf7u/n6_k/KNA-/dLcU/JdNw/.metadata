@@ -1,0 +1,16 @@
+﻿{
+  "Id": "JdNwoSjNwUqgCynQ9or_QQ",
+  "Reference": "_G1fG-i5WE2OhcMQ8Je3rA/JdNwoSjNwUqgCynQ9or_QQ",
+  "ParentRef": "_G1fG-i5WE2OhcMQ8Je3rA/dLcUgS3-2Ua2myq4eYkQ0g",
+  "Name": "Star Survey Dalem: 1",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-03-11T14:30:34.8770694Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-16T03:31:55.3054527Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

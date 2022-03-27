@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/Ticketing/OpenNewTicket.aspx" ContentHash="pssrWrffVUuzWSL1nYDVzw" DesignTimeRectangle="353, 253, 204, 40" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' aaname='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Ticket List' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="240, 183, 1159, 40" ElementType="Text" FriendlyName="'Ticket List'" FullSelectorArgument="&lt;webctrl id='wt2_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt2_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' tag='DIV' type='' aaname='Ticket List' check:text='Ticket List' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1OGxseKbhDUCt6oqC-rC_fw</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="240, 253, 96, 40" ElementType="DropDown" FriendlyName="'10'" FullSelectorArgument="&lt;webctrl tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='SELECT' type='' aaname='' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">2Fuu8n_BTWke9IGkVMfdqdQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0DDiprXj_7UeJlS7NMjJNOg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="ff94d693e4a5042d35c51ab9aec560ff.png" xmlns="">0jmrAXhWMvUC6S2f-M-4yLQ</imageRef>
+</TargetAnchorable>

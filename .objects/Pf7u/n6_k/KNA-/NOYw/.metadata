@@ -1,0 +1,16 @@
+﻿{
+  "Id": "NOYwyB_6-0Woq2KKFN5M1Q",
+  "Reference": "_G1fG-i5WE2OhcMQ8Je3rA/NOYwyB_6-0Woq2KKFN5M1Q",
+  "ParentRef": "_G1fG-i5WE2OhcMQ8Je3rA/KNA-ie8J40Kr7Mmr_LYEdw",
+  "Name": "Complexity",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-03-11T11:14:11.7444421Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-11T11:19:00.1708201Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

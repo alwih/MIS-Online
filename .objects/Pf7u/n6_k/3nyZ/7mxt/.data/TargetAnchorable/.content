@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/Ticketing/TicketList.aspx" ContentHash="wZaQS11tW0eXzq2aZ4iKpA" DesignTimeRectangle="240, 351, 568, 40" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl id='wt4_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt4_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' tag='INPUT' type='text' aaname='Issue Summary' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Open New Ticket' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="240, 327, 568, 24" ElementType="Text" FriendlyName="'Issue Summary'" FullSelectorArgument="&lt;webctrl aaname='Issue Summary' parentid='wt4_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Issue Summary' parentid='wt4_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' tag='LABEL' type='' check:text='Issue Summary' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1vTKS5K6sXEie-qmZn3AoPA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0PzIJSJq5YUeBLqcFfGmkNw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e69470c6fdc864841462aa353c68f4ef.png" xmlns="">0tKTUmQIRRUCR-BMUMjLBUA</imageRef>
+</TargetAnchorable>

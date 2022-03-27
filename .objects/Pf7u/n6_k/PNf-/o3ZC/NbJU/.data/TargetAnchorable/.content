@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.26/Ticketing/TicketList.aspx?(Not.Licensed.For.Production)=" ContentHash="Um9AzdOlNken_bN47iAJNw" DesignTimeRectangle="1367, 102, 15, 24" FriendlyName="'SPAN'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;header&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span' parentid='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;header&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span' parentid='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='SPAN' type='' aaname='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Ticket List' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1114, 90, 277, 50" FriendlyName="'MAMis Agent2'" FullSelectorArgument="&lt;webctrl id='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='DIV' type='' aaname='' check:text='MAMis Agent2 Testmis.agent2@bankmandiri.co.idMy InfoMy AppsChange PasswordLogout// Waits elements' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">17mFBGS-WEkevrf2q9Nh4OQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0nC4vzd2EXUWiviQf0YFIbQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9e0309f4d19f9bd5ca194c0874990c4d.png" xmlns="">0GdgMTSxCR0KLd1hWtNfFeA</imageRef>
+</TargetAnchorable>

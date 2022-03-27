@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/Ticketing/TicketList.aspx" ContentHash="34G1P-9FWk6pNm5EbvWZbg" DesignTimeRectangle="241, 444, 1157, 200" FriendlyName="'IFRAME'" FullSelectorArgument="&lt;webctrl tag='IFRAME' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='IFRAME' type='' aaname='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Open New Ticket' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0GBG6bGyR20Ku3k_ytY8hlA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="017cf448302da4972e9855d4c4db2d83.png" xmlns="">0huNdxrJ3wEuDnw84stxTpQ</imageRef>
+</TargetAnchorable>

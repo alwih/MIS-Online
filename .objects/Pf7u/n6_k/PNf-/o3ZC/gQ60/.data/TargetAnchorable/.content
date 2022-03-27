@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/Ticketing/TicketList.aspx?(Not.Licensed.For.Production)=" ContentHash="Sr0zL7kPJUS-nyVIaY2TyA" DesignTimeRectangle="1174, 228, 211, 40" ElementType="Text" FriendlyName="'Logout'" FullSelectorArgument="&lt;webctrl aaname='Logout' id='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Logout' id='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='A' type='' check:text='Logout' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Ticket List' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1174, 188, 211, 40" ElementType="Text" FriendlyName="'My Apps'" FullSelectorArgument="&lt;webctrl aaname='My Apps' id='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='My Apps' id='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='A' type='' check:text='My Apps' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1z8_geyzXg0CN9HtnD1YpBg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0XWXTountWkKyoH6-1EqOvA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4aaba71e5d84db1fb444017b8d056864.png" xmlns="">0JQA24zVxRkiUhUP0qh1HMw</imageRef>
+</TargetAnchorable>

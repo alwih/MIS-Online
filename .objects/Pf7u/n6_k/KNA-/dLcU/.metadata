@@ -1,0 +1,14 @@
+﻿{
+  "Id": "dLcUgS3-2Ua2myq4eYkQ0g",
+  "Reference": "_G1fG-i5WE2OhcMQ8Je3rA/dLcUgS3-2Ua2myq4eYkQ0g",
+  "ParentRef": "_G1fG-i5WE2OhcMQ8Je3rA/KNA-ie8J40Kr7Mmr_LYEdw",
+  "Name": "Closed Ticket: Button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-03-11T13:32:56.0575281Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-11T13:32:56.0575281Z"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "dqFLWHHIJkeMTFXSq_Wepw",
+  "Reference": "_G1fG-i5WE2OhcMQ8Je3rA/dqFLWHHIJkeMTFXSq_Wepw",
+  "ParentRef": "_G1fG-i5WE2OhcMQ8Je3rA/dLcUgS3-2Ua2myq4eYkQ0g",
+  "Name": "Aspekk: 4",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-03-16T03:40:39.1414048Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-16T03:40:53.7748395Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

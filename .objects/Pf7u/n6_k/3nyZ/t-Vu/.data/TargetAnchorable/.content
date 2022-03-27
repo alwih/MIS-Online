@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/Ticketing/TicketList.aspx" ContentHash="CwpyMOWi7UySjTKcfBecNg" DesignTimeRectangle="249, 330, 550, 40" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' aaname='Search' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Open New Ticket' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="240, 277, 568, 40" FriendlyName="'-- Select'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' parentid='wt4_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' parentname='wt4$OutSystemsUIWeb_wt21$block$wtContent$wtMainContent$Ticketing*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' parentid='wt4_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' parentname='wt4$OutSystemsUIWeb_wt21$block$wtContent$wtMainContent$Ticketing*' tag='DIV' type='' aaname='' check:text='-- Select Topic --&amp;#xA;              -- Select Topic --&amp;#xA;                Remove item' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">17H2aSZkzPEyfKmnjsSEb3Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0_ssbakZDt0G7YAoKJn5khQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8662660c7286e67cf1e8778d0dcb173c.png" xmlns="">00GjR6BpokE2TA1maJZFlNg</imageRef>
+</TargetAnchorable>

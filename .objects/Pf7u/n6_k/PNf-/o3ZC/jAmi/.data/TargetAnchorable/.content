@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/Ticketing/TicketList.aspx?(Not.Licensed.For.Production)=" ContentHash="QKMaTpZrEkKCKu4EdSqbhw" DesignTimeRectangle="1367, 102, 15, 24" FriendlyName="'SPAN'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;header&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span' parentid='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;header&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span' parentid='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='SPAN' type='' aaname='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Ticket List' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1128, 90, 263, 50" FriendlyName="'MUMis User'" FullSelectorArgument="&lt;webctrl id='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='DIV' type='' aaname='' check:text='MUMis User Testmis.user@bankmandiri.co.idMy InfoMy AppsChange PasswordLogout// Waits elements' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1eO1XZdvNfkOcDDvAfSwByQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0MX01mjt3mUCzVXA9Wm1Gsw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4d8487fce177c896cd5c30b6db7bdf0e.png" xmlns="">0zbGHOTes7EeoCaMqrsuysQ</imageRef>
+</TargetAnchorable>

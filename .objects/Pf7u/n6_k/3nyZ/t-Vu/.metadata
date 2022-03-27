@@ -1,0 +1,16 @@
+﻿{
+  "Id": "t-VuBugqGECt2Bu8F9T9zQ",
+  "Reference": "_G1fG-i5WE2OhcMQ8Je3rA/t-VuBugqGECt2Bu8F9T9zQ",
+  "ParentRef": "_G1fG-i5WE2OhcMQ8Je3rA/3nyZGj34d0i8f-f1zI-ZRw",
+  "Name": "Type: Topic",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-03-08T09:10:36.0148588Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-08T09:11:12.6903312Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

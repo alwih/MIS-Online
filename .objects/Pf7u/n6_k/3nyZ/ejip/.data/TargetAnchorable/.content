@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/Ticketing/TicketList.aspx" ContentHash="rFCvj4k5lEaG6B79PSq3Dg" DesignTimeRectangle="1028, 424, 299, 21" ElementType="Text" FriendlyName="'test'" FullSelectorArgument="&lt;webctrl tag='P' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='P' type='' aaname='test' check:text='test' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Ticket Detail' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1028, 395, 299, 21" ElementType="Text" FriendlyName="'Mis User'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' id='wt22_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketin*' isleaf='1' parentname='WebForm1' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' id='wt22_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketin*' isleaf='1' parentname='WebForm1' tag='DIV' type='' aaname='Mis User Test posted on 04 Feb 2022 08:25:07' check:text='Mis User Test posted on 04 Feb 2022 08:25:07' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1jDASohAy6kevcKfeD67jxQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0ZlfgRN7JFEOqEX1qsFPcDw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8630d7af6c0da8592d905f4120a866ff.png" xmlns="">0_cO4oGH5SEWxcxbTjn9mvQ</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="7whJu9U1CUqtlElVFdArrw" DesignTimeRectangle="535, 337, 274, 40" ElementType="DropDown" FriendlyName="'- All Topic -'" FullSelectorArgument="&lt;ctrl name='ReportSurveyMIS' role='document' /&gt;&lt;ctrl name='Topic' role='combo box' aastate='collapsed, focusable, has popup, opaque' text='- All Topic -' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ReportSurveyMIS' role='document' /&gt;&lt;ctrl name='Topic' role='combo box' aastate='collapsed, focusable, has popup, opaque' text='- All Topic -' automationid='' /&gt;" Reference="_G1fG-i5WE2OhcMQ8Je3rA/TaX4nA5f_0ao43bCAI15kg" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='ReportSurveyMIS - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="535, 316, 274, 21" ElementType="InputBox" FriendlyName="'Topic'" FullSelectorArgument="&lt;ctrl name='ReportSurveyMIS' role='document' /&gt;&lt;ctrl idx='6' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ReportSurveyMIS' role='document' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">06vt5q50K0EK3lgxaAsvrWQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="InformativeScreenshot" originalValue="3bb5210d930014305b9fc901ddc6b87e.png" xmlns="">0sU4I-dEuy0aKuunXM30a6w</imageRef>
+</TargetAnchorable>

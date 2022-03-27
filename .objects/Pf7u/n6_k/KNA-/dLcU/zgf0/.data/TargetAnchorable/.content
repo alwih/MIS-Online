@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/Ticketing/TicketList.aspx?(Not.Licensed.For.Production)=" ContentHash="vBCgXU_lIU-UC8PFVfNkVg" DesignTimeRectangle="494, 520, 458, 104" ElementType="InputBox" FriendlyName="'TEXTAREA'" FullSelectorArgument="&lt;webctrl tag='TEXTAREA' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TEXTAREA' type='' aaname='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Ticket List' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">01k0aNUo8oUyBGqeQ_7BaLg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="2da7b91f6e7aaae96b99a53a9e7dc835.png" xmlns="">0UhnbnB_jj02QtTpho1Z57Q</imageRef>
+</TargetAnchorable>

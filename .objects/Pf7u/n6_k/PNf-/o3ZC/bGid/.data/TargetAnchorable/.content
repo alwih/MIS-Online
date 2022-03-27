@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/Ticketing/TicketList.aspx?(Not.Licensed.For.Production)=" ContentHash="m3nfVtV6_kyDNKKYbQZ49g" DesignTimeRectangle="1185, 118, 160, 17" ElementType="Text" FriendlyName="'mis.user@bankmandiri.co…'" FullSelectorArgument="&lt;webctrl aaname='mis.user@bankmandiri.co.id' parentid='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='SPAN' innertext='mis.user@bankmandiri.co.id' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='mis.user@bankmandiri.co.id' parentid='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='SPAN' innertext='mis.user@bankmandiri.co.id' type='' check:text='mis.user@bankmandiri.co.id' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Ticket List' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1177, 94, 180, 42" FriendlyName="'Mis User'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;header&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' id='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' parentid='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;header&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' id='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' parentid='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='DIV' type='' aaname='' check:text='Mis User Testmis.user@bankmandiri.co.id' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1CLLia_w64k2tUTo20GeXuw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0bHZbcu8pm0-ju1bajIjVuQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="532bae5147f4328f4f084d83a4be0645.png" xmlns="">0sl9AqRDYpU-ZFm42iWndhw</imageRef>
+</TargetAnchorable>

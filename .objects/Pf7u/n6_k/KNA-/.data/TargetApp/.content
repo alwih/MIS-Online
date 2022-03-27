@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="L7k7-u3n7keFV_m5v_tQjw" Selector="&lt;html app='chrome.exe' title='Ticket List'/&gt;" Url="https://10.243.229.232/Ticketing/OpenNewTicket.aspx" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0sYnyPUUVPkiWTjCS2MSoFA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="f4cf4c2d4def3b1dc2f217afaa81e67d.png" xmlns="">0iGYQ7CmHu0Wr5AMO2lZiBg</imageRef>
+</TargetApp>

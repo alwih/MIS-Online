@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/Login.aspx?OriginalURL=/Ticketing/" ContentHash="8ect1y8b6EeRBI4SVEPvbg" DesignTimeRectangle="553, 396, 350, 40" ElementType="InputBox" FriendlyName="'INPUT OutSystemsUIWeb_w…'" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' aaname='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Login' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="628, 263, 200, 58" ElementType="Icon" FriendlyName="'IMG'" FullSelectorArgument="&lt;webctrl parentid='OutSystemsUIWeb_wt27_block_wtLogin_wtform' tag='IMG' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='OutSystemsUIWeb_wt27_block_wtLogin_wtform' tag='IMG' type='' aaname='' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1qeLNWG-1k0O0cg1_Owy9xw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0jLgqdff03UKW_bHR3FPNHA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8a2bec7b93494c7ada9992c5c649624c.png" xmlns="">0mUjF238E5U2r71G9OXZoHQ</imageRef>
+</TargetAnchorable>

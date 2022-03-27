@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/Ticketing/TicketList.aspx?(Not.Licensed.For.Production)=" ContentHash="zSJ-Hd7EiE6Ior4F-oejvw" DesignTimeRectangle="1294, 253, 105, 40" ElementType="Button" FriendlyName="'New Ticket'" FullSelectorArgument="&lt;webctrl tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='submit' aaname='New Ticket' check:text='New Ticket' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Ticket List' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1204, 253, 70, 40" ElementType="Text" FriendlyName="'Reset'" FullSelectorArgument="&lt;webctrl id='wt2_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt2_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' tag='A' type='' aaname='Reset' check:text='Reset' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1osKJTwrU0UmbomjILaz2SA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0D2Nb9FzHZEOqEPuWkN6hxw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6da42f891ea781681acee8630ee8405d.png" xmlns="">0IFdmrfTBFU6aPRsuybYQYw</imageRef>
+</TargetAnchorable>

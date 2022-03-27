@@ -1,0 +1,16 @@
+﻿{
+  "Id": "GRHKL9wqJkKtwXVkdKqlYg",
+  "Reference": "_G1fG-i5WE2OhcMQ8Je3rA/GRHKL9wqJkKtwXVkdKqlYg",
+  "ParentRef": "_G1fG-i5WE2OhcMQ8Je3rA/dLcUgS3-2Ua2myq4eYkQ0g",
+  "Name": "Send Survey Luar",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-03-16T03:41:41.2936855Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-16T03:41:57.1680633Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

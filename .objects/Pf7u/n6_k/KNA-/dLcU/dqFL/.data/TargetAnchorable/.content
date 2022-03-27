@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/Ticketing/TicketList.aspx?(Not.Licensed.For.Production)=" ContentHash="dnG4S6F8PEa9l8yRYetPbA" DesignTimeRectangle="502, 480, 24, 24" ElementType="CheckBox" FriendlyName="'Checkbox'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;input' idx='4' tag='INPUT' type='checkbox' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;input' aaname='' tag='INPUT' type='checkbox' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Ticket List' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="534, 484, 137, 18" ElementType="Text" FriendlyName="'Nilai Tambah Analytics'" FullSelectorArgument="&lt;webctrl aaname='Nilai Tambah Analytics' parentid='wt2_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Nilai Tambah Analytics' parentid='wt2_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' tag='SPAN' type='' check:text='Nilai Tambah Analytics' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1QDrZhJoegUeTjZBBydn-aA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0CdgMGtkBwEWTdOt8EFRuaw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="65d77615dd46d0627722447ee2ec999f.png" xmlns="">08tAlDZ0bnkiMHFJkIEmUrA</imageRef>
+</TargetAnchorable>

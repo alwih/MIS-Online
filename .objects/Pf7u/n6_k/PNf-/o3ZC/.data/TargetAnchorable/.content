@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/Ticketing/TicketList.aspx?(Not.Licensed.For.Production)=" ContentHash="TwudL2kEBkS0BkaICPe5Zg" DesignTimeRectangle="1128, 90, 263, 50" FriendlyName="'MUMis User'" FullSelectorArgument="&lt;webctrl id='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt2_OutSystemsUIWeb_wt21_block_wtHeader_wtRight_wt19_Ticketing_U*' tag='DIV' type='' aaname='' check:text='MUMis User Testmis.user@bankmandiri.co.idMy InfoMy AppsChange PasswordLogout// Waits elements' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Ticket List' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0kCG009MOrUCs2q_2B7QVRg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6e88680c62a3694c6ae8b11dee01b097.png" xmlns="">0boIgvK-U2E-dBAcfTNKVMQ</imageRef>
+</TargetAnchorable>

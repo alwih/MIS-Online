@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/Ticketing/TicketList.aspx" ContentHash="iLS_IyZfn0eqFJIBB7qp3g" DesignTimeRectangle="895, 624, 120, 40" ElementType="Button" FriendlyName="'Closed Ticket'" FullSelectorArgument="&lt;webctrl aaname='Closed Ticket' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Closed Ticket' tag='INPUT' type='submit' check:text='Closed Ticket' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Ticket Detail' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="811, 624, 64, 40" ElementType="Button" FriendlyName="'Save'" FullSelectorArgument="&lt;webctrl aaname='Save' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Save' tag='INPUT' type='submit' check:text='Save' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1xLSdp-CX50u1s2eQTVFFIA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0oitSleGD8Ey40PYUSmqi4w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="0581b81d20eada45d065061d8b54b8e2.png" xmlns="">0X5Ma39Ry8ECl5bcwVodF7w</imageRef>
+</TargetAnchorable>

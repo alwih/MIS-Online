@@ -1,0 +1,16 @@
+﻿{
+  "Id": "JJ1ecxt_bUm5NAux8jwBqg",
+  "Reference": "_G1fG-i5WE2OhcMQ8Je3rA/JJ1ecxt_bUm5NAux8jwBqg",
+  "ParentRef": "_G1fG-i5WE2OhcMQ8Je3rA/W0aEtmhg0E2bZj4KcShu6A",
+  "Name": "Notif: Survey",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-03-15T06:49:48.0601687Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-15T07:25:41.4532959Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/Ticketing/TicketList.aspx" ContentHash="oDEh-qmsNkCVNoSSG6ttPA" DesignTimeRectangle="240, 277, 568, 40" FriendlyName="'-- Select'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' parentid='wt4_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' parentname='wt4$OutSystemsUIWeb_wt21$block$wtContent$wtMainContent$Ticketing*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' parentid='wt4_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' parentname='wt4$OutSystemsUIWeb_wt21$block$wtContent$wtMainContent$Ticketing*' tag='DIV' type='' aaname='' check:text='-- Select Topic --&amp;#xA;              -- Select Topic --&amp;#xA;                Remove item' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Open New Ticket' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="240, 253, 568, 24" ElementType="Text" FriendlyName="'Topic'" FullSelectorArgument="&lt;webctrl parentid='wt4_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='wt4_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' tag='LABEL' type='' aaname='Topic' check:text='Topic' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1iTlDev44jEqB8ab8mc-VhA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0d7O9o8FmVkWJDEkFrbB7xQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="909c1e459084ed7d88c010a63c49966f.png" xmlns="">0CCEk4SV8R0mT6DiK1RqM-g</imageRef>
+</TargetAnchorable>

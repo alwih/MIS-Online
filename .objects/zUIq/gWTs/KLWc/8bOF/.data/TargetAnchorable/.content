@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.27/Ticketing/ReportSurveyMIS.aspx?(Not.Licensed.For.Production)=" ContentHash="RivhiEd5-kSHVj4y45lP8A" DesignTimeRectangle="1126, 337, 67, 40" ElementType="Button" FriendlyName="'Filter'" FullSelectorArgument="&lt;webctrl aaname='Filter' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Filter' tag='INPUT' type='submit' check:text='Filter' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ReportSurveyMIS' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1213, 337, 101, 40" ElementType="Button" FriendlyName="'Download'" FullSelectorArgument="&lt;webctrl aaname='Download' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Download' tag='INPUT' type='submit' check:text='Download' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1kSI7BGTaNUGyWXh9n9lABg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0oSccX9-lm0qXQzvm2o36GA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4d38e9d82b612ee8e0ee1136f3388ccc.png" xmlns="">0KZ2owCN9xUelFocskacs2g</imageRef>
+</TargetAnchorable>

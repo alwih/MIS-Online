@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/Ticketing/OpenNewTicket.aspx" ContentHash="uy0zlQHyhE-PJay3tmBFrg" DesignTimeRectangle="1236, 448, 143, 40" ElementType="Text" FriendlyName="'Survey Rate'" FullSelectorArgument="&lt;webctrl aaname='Survey Rate' id='wt2_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Survey Rate' id='wt2_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' tag='A' type='' check:text='Survey Rate' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Ticket List' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1236, 408, 143, 40" ElementType="Text" FriendlyName="'View'" FullSelectorArgument="&lt;webctrl aaname='View' id='wt2_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='View' id='wt2_OutSystemsUIWeb_wt21_block_wtContent_wtMainContent_Ticketing*' tag='A' type='' check:text='View' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1fcFrlz_XKkScai_di6YTvQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0qArKFnOVGUSkkkRi4FU2mw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="315a6256783a7f9fd0dff0d3d40d777a.png" xmlns="">0xjpuD2cFT0WdU9A3gOI63w</imageRef>
+</TargetAnchorable>

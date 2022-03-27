@@ -1,0 +1,14 @@
+﻿{
+  "Id": "v5QecQAyJEW5d2vQpEDSZw",
+  "Reference": "_G1fG-i5WE2OhcMQ8Je3rA/v5QecQAyJEW5d2vQpEDSZw",
+  "ParentRef": "_G1fG-i5WE2OhcMQ8Je3rA/KLWcDIc4nUeQZJEGuXQ0Ng",
+  "Name": "Extract Table Data Report Survey",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-03-18T08:04:43.7018771Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-18T08:04:43.7018771Z"
+}

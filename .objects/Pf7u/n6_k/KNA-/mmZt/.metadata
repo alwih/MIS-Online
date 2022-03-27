@@ -1,0 +1,16 @@
+﻿{
+  "Id": "mmZtk24PWEeGZ47yXC161Q",
+  "Reference": "_G1fG-i5WE2OhcMQ8Je3rA/mmZtk24PWEeGZ47yXC161Q",
+  "ParentRef": "_G1fG-i5WE2OhcMQ8Je3rA/KNA-ie8J40Kr7Mmr_LYEdw",
+  "Name": "View",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-03-08T09:38:10.7701623Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-08T09:38:43.923698Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

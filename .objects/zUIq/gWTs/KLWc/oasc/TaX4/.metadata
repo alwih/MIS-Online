@@ -1,0 +1,16 @@
+﻿{
+  "Id": "TaX4nA5f_0ao43bCAI15kg",
+  "Reference": "_G1fG-i5WE2OhcMQ8Je3rA/TaX4nA5f_0ao43bCAI15kg",
+  "ParentRef": "_G1fG-i5WE2OhcMQ8Je3rA/oasc7w7HFEu6nP-zWbbsNA",
+  "Name": "Topic: AA",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-03-18T07:20:10.2104183Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-21T08:11:59.3353392Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

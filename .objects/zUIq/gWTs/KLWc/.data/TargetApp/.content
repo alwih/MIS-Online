@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="khBzHaRbLEG9vZqmVDA8Sg" Selector="&lt;html app='chrome.exe' title='ReportSurveyMIS'/&gt;" Url="https://10.243.229.27/Ticketing/ReportSurveyMIS.aspx?(Not.Licensed.For.Production)=" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0eit2JtubRU2684K1Sq_q4Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="29cc8b02bed28f303a63c8a921237d01.png" xmlns="">0W9dM8lYQgUS9Lk1Ug-TflA</imageRef>
+</TargetApp>

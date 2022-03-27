@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://10.243.229.232/Ticketing/TicketList.aspx" ContentHash="oc492Bei4kSY8PGWFPuhLg" DesignTimeRectangle="457, 110, 184, 21" ElementType="Text" FriendlyName="'Success Send Survey Rate'" FullSelectorArgument="&lt;webctrl id='wt2_OutSystemsUIWeb_wt21_block_wt5_RichWidgets_wt7_block_wtSanit*' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wt2_OutSystemsUIWeb_wt21_block_wt5_RichWidgets_wt7_block_wtSanit*' tag='SPAN' type='' aaname='Success Send Survey Rate' check:text='Success Send Survey Rate' /&gt;" Reference="_G1fG-i5WE2OhcMQ8Je3rA/JJ1ecxt_bUm5NAux8jwBqg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Ticket List' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="420, 101, 600, 39" FriendlyName="'Success Send Survey Rate'" FullSelectorArgument="&lt;webctrl parentid='wt2_OutSystemsUIWeb_wt21_block_wt5_RichWidgets_wt7_block_wtFeedb*' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='wt2_OutSystemsUIWeb_wt21_block_wt5_RichWidgets_wt7_block_wtFeedb*' tag='DIV' type='' aaname='' check:text='Success Send Survey Rate' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1GSItrpBht0W6Ig89cuMyfg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0rduM-0Ign02SfNs-TvtbGA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="060d398f34506e4183cec83b1993ccbc.png" xmlns="">05Cqg-f2pCEuMQGOelrrMcg</imageRef>
+</TargetAnchorable>
